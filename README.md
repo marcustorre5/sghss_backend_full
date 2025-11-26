@@ -128,6 +128,7 @@ Enviar token no header
 Authorization: Bearer SEU_TOKEN
 
 📡 6. Endpoints Disponíveis
+```
 6.1. Pacientes – /api/pacientes/
 Método	Descrição
 GET	Listar todos
@@ -146,6 +147,7 @@ GET	Listar consultas
 POST	Criar consulta
 PUT/PATCH	Atualizar consulta
 DELETE	Excluir consulta
+```
 🧪 7. Testes com Postman
 
 Todos os endpoints foram testados utilizando o Postman, incluindo:
