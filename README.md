@@ -44,6 +44,7 @@ O foco principal é demonstrar organização, modelagem, arquitetura limpa e boa
 
 A aplicação segue a estrutura padrão Django, com organização modular:
 
+```
 sghss_backend_full/
 │── core/
 │ ├── migrations/
@@ -65,7 +66,7 @@ sghss_backend_full/
 │── manage.py
 │── requirements.txt
 
-
+```
 ### **Resumo dos Diretórios**
 - `core/` → Aplicação principal (entidades e lógica de negócio)  
 - `sghss_backend/` → Configurações gerais do projeto Django  
