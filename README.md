@@ -160,9 +160,8 @@ Testes de acesso autorizado
 
 CRUD completo de todas as entidades
 
-Prints para documentação (PDF)
 
-🚀 8. Scripts Úteis
+# 🚀 8. Scripts Úteis
 Inicialização rápida (Windows):
 iniciar_sghss.bat
 
