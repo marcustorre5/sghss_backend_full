@@ -164,9 +164,10 @@ iniciar_sghss.bat
 
 
 Ele ativa a venv e executa automaticamente o servidor Django.
-````
 
+```
 Autor:
 
-Marcus
+Marcus Torres
 Projeto acadêmico — Desenvolvimento Back-end.
+````
