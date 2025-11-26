@@ -81,7 +81,7 @@ sghss_backend_full/
 ```bash
 
 ```
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+git clone https://github.com/marcustorre5/sghss_backend_full
 cd sghss_backend_full
 
 Crie o ambiente virtual
