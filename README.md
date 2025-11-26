@@ -95,11 +95,13 @@ pip install -r requirements.txt
 
 Configuração padrão utilizada:
 
+````
 HOST: localhost
 PORT: 5432
 USER: postgres
 PASSWORD: 250250
 NAME: postgres
+````
 
 4.5. Execute as migrações
 python manage.py migrate
