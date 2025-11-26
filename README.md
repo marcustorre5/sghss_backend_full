@@ -114,7 +114,7 @@ python manage.py runserver
 Acesse em:
 http://127.0.0.1:8000/
 
-#🔐 5. Autenticação JWT
+# 🔐 5. Autenticação JWT
 
 A API utiliza JSON Web Tokens (JWT).
 
@@ -127,7 +127,7 @@ POST /api/token/refresh/
 Enviar token no header
 Authorization: Bearer SEU_TOKEN
 
-#📡 6. Endpoints Disponíveis
+# 📡 6. Endpoints Disponíveis
 ```
 6.1. Pacientes – /api/pacientes/
 Método	Descrição
@@ -148,7 +148,7 @@ POST	Criar consulta
 PUT/PATCH	Atualizar consulta
 DELETE	Excluir consulta
 ```
-#🧪 7. Testes com Postman
+# 🧪 7. Testes com Postman
 
 Todos os endpoints foram testados utilizando o Postman, incluindo:
 
